@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════ ANIMATED WAVE HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:6e40c9,100:a855f7&height=250&section=header&text=SAJAWAL%20NADEEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Anti-Bot%20Architect%20%E2%80%A2%20Bug%20Hunter&descSize=16&descAlignY=52&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:6e40c9,100:a855f7&height=240&section=header&text=SAJAWAL%20NADEEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Anti-Bot%20Architect%20%E2%80%A2%20Bug%20Hunter&descSize=16&descAlignY=52&descAlign=50" />
 
-<!-- ═══════════════════════ ANIMATED TYPING SVG ═══════════════════════ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Full-Stack+Developer+%E2%80%94+Building+High-Impact+Systems;%F0%9F%94%93+Reverse+Engineer+%E2%80%94+Nothing+Stays+a+Black+Box;%F0%9F%9B%A1%EF%B8%8F+Anti-Bot+Architect+%E2%80%94+Outsmarting+Enterprise+WAFs;%F0%9F%90%9B+Bug+Hunter+%E2%80%94+Breaking+to+Build+Better;%F0%9F%92%BB+From+Assembly+to+Cloud+%E2%80%94+Full+Spectrum+Engineering" alt="Typing SVG" /></a>
+<!-- ═══════════════════════ DYNAMIC TYPING SVG (SINGLE-LINE NO-CLIP) ═══════════════════════ -->
+<a href="https://github.com/miyaa1745"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=50&lines=%3E+Full-Stack+Developer+%E2%80%94+Building+Scalable+Cloud+Systems;%3E+Reverse+Engineer+%E2%80%94+Deconstructing+Complex+Binaries;%3E+Anti-Bot+Architect+%E2%80%94+Outsmarting+Enterprise+WAFs;%3E+Protocol+Engineer+%E2%80%94+TLS+%26+HTTP%2F2+Frame+Mimicry;%3E+From+Assembly+to+Cloud+%E2%80%94+Zero-Overhead+Automation" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40"> &nbsp;Who Am I
+## ⚡ About Me
 
 ```js
 const SajawalNadeem = {
@@ -46,35 +46,35 @@ const SajawalNadeem = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> &nbsp;Tech Stack & Arsenal
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22"> Languages
+### 💻 Languages
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,js,ts,php,ruby,lua,bash,assembly&perline=6&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Frontend & Web
+### 🌐 Frontend & Web
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"> Backend & Runtime
+### ⚙️ Backend & Runtime
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,nginx,bun&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22"> Databases & Caching
+### 🗄️ Databases & Caching
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase,firebase,dynamodb&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"> Cloud, DevOps & Infrastructure
+### ☁️ Cloud, DevOps & Infrastructure
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,githubactions,cloudflare&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22"> Security & Reverse Engineering Tools
+### 🛡️ Security & Reverse Engineering Tools
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,powershell,vim,neovim,vscode,git,github,gitlab&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="22"> Hardware & IoT
+### 🔌 Hardware & IoT
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></a>
 
@@ -82,14 +82,14 @@ const SajawalNadeem = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="35"> &nbsp;Expertise Domains
+## 🛡️ Expertise Domains
 
 <div align="center">
 <table>
 <tr>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Full-Stack Dev</h3>
+<h3 align="center">🌐 Full-Stack Dev</h3>
 <p align="center"><img src="https://img.shields.io/badge/Priority-1st%20Focus-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -115,7 +115,7 @@ const SajawalNadeem = {
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="22"> Reverse Engineering</h3>
+<h3 align="center">🔬 Reverse Engineering</h3>
 <p align="center"><img src="https://img.shields.io/badge/Depth-Bytecode%20Level-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -140,7 +140,7 @@ const SajawalNadeem = {
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="22"> Bug Hunting</h3>
+<h3 align="center">🎯 Bug Hunting</h3>
 <p align="center"><img src="https://img.shields.io/badge/Scope-Web%20%2B%20Binary-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -169,7 +169,7 @@ const SajawalNadeem = {
 <tr>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22"> Anti-Bot Engineering</h3>
+<h3 align="center">🤖 Anti-Bot Engineering</h3>
 <p align="center"><img src="https://img.shields.io/badge/Level-Enterprise%20WAF-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -195,7 +195,7 @@ const SajawalNadeem = {
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="22"> Hardware Hacking</h3>
+<h3 align="center">🔧 Hardware Hacking</h3>
 <p align="center"><img src="https://img.shields.io/badge/Layer-Silicon%20to%20Firmware-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -221,7 +221,7 @@ const SajawalNadeem = {
 </td>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" width="22"> Software Cracking</h3>
+<h3 align="center">💿 Software Cracking</h3>
 <p align="center"><img src="https://img.shields.io/badge/Focus-Protection%20Analysis-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -252,7 +252,7 @@ const SajawalNadeem = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35"> &nbsp;Architecture & Design Principles
+## 🧬 Architecture & Design Principles
 
 <div align="center">
 
@@ -311,21 +311,21 @@ const SajawalNadeem = {
 
 </div>
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22"> Efficiency Over Bloat
+> ### ⚡ Efficiency Over Bloat
 > Discarding headless browser overhead in favor of pure, precision-crafted raw HTTP/2 frames and socket-level mimicry. Every byte is intentional.
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Counterclockwise%20Arrows%20Button.png" width="22"> Resilience by Design
+> ### 🔄 Resilience by Design
 > Fault-tolerant distributed worker pools sustaining high-concurrency burst workloads with automatic failover and graceful degradation.
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="22"> Precision Reverse Engineering
+> ### 🔬 Precision Reverse Engineering
 > Deconstructing proprietary challenge VMs down to bytecode semantics. No black box stays black.
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Full-Stack Mentality
+> ### 🌐 Full-Stack Mentality
 > From pixel-perfect frontends to battle-hardened backends, from silicon-level hardware hacking to cloud-scale infrastructure.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> &nbsp;System Metrics & Activity
+## 📊 System Metrics & Activity
 
 <div align="center">
 
@@ -342,7 +342,7 @@ const SajawalNadeem = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35"> &nbsp;Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
