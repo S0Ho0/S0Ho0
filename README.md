@@ -54,7 +54,7 @@ const SajawalNadeem = {
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,js,ts,php,ruby,lua,bash,assembly&perline=6&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="22"> Frontend & Web
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Frontend & Web
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass&perline=8&theme=dark" /></a>
 
@@ -89,7 +89,7 @@ const SajawalNadeem = {
 <tr>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="22"> Full-Stack Dev</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Full-Stack Dev</h3>
 <p align="center"><img src="https://img.shields.io/badge/Priority-1st%20Focus-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -169,7 +169,7 @@ const SajawalNadeem = {
 <tr>
 
 <td width="33%" valign="top">
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22"> Anti-Bot Engineering</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22"> Anti-Bot Engineering</h3>
 <p align="center"><img src="https://img.shields.io/badge/Level-Enterprise%20WAF-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
@@ -320,7 +320,7 @@ const SajawalNadeem = {
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="22"> Precision Reverse Engineering
 > Deconstructing proprietary challenge VMs down to bytecode semantics. No black box stays black.
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="22"> Full-Stack Mentality
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22"> Full-Stack Mentality
 > From pixel-perfect frontends to battle-hardened backends, from silicon-level hardware hacking to cloud-scale infrastructure.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
