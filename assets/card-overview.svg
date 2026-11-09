@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" fill="none">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#6e40c9" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  
+  <rect x="2" y="2" width="476" height="216" rx="14" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1.8"/>
+  
+  <circle cx="24" cy="22" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+  <circle cx="56" cy="22" r="5" fill="#27c93f"/>
+  
+  <text x="80" y="26" fill="#8b949e" font-family="'Segoe UI', -apple-system, monospace" font-size="12" font-weight="600">sajawal@antigravity: ~/telemetry</text>
+  <line x1="16" y1="38" x2="464" y2="38" stroke="#30363d" stroke-width="1"/>
+  
+  <g transform="translate(22, 60)" font-family="'Segoe UI', -apple-system, sans-serif">
+    <text x="0" y="10" fill="#a855f7" font-size="12.5" font-weight="700">⚡ PRIMARY ROLE:</text>
+    <text x="140" y="10" fill="#f0f6fc" font-size="12.5" font-weight="600">Full-Stack Developer (Web &amp; Cloud)</text>
+    
+    <text x="0" y="38" fill="#a855f7" font-size="12.5" font-weight="700">🔬 SPECIALTY:</text>
+    <text x="140" y="38" fill="#c9d1d9" font-size="12">Reverse Engineering &amp; Bug Hunting</text>
+    
+    <text x="0" y="66" fill="#a855f7" font-size="12.5" font-weight="700">🛡️ EVASION ENGINE:</text>
+    <text x="140" y="66" fill="#c9d1d9" font-size="12">Anti-Bot (Cloudflare, Akamai, JA3/JA4)</text>
+    
+    <text x="0" y="94" fill="#a855f7" font-size="12.5" font-weight="700">💻 CORE LANGUAGES:</text>
+    <text x="140" y="94" fill="#c9d1d9" font-size="12">Assembly • Go • Python • C++ • TypeScript</text>
+    
+    <text x="0" y="122" fill="#a855f7" font-size="12.5" font-weight="700">🟢 STATUS:</text>
+    <text x="140" y="122" fill="#3fb950" font-size="12" font-weight="600">Available for High-Impact Dev &amp; Security</text>
+  </g>
+</svg>
