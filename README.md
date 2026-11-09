@@ -4,16 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:6e40c9,100:a855f7&height=240&section=header&text=SAJAWAL%20NADEEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Anti-Bot%20Architect%20%E2%80%A2%20Bug%20Hunter&descSize=16&descAlignY=52&descAlign=50" />
 
 <!-- ═══════════════════════ DYNAMIC TYPING SVG (SINGLE-LINE NO-CLIP) ═══════════════════════ -->
-<a href="https://github.com/miyaa1745"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=50&lines=%3E+Full-Stack+Developer+%E2%80%94+Building+Scalable+Cloud+Systems;%3E+Reverse+Engineer+%E2%80%94+Deconstructing+Complex+Binaries;%3E+Anti-Bot+Architect+%E2%80%94+Outsmarting+Enterprise+WAFs;%3E+Protocol+Engineer+%E2%80%94+TLS+%26+HTTP%2F2+Frame+Mimicry;%3E+From+Assembly+to+Cloud+%E2%80%94+Zero-Overhead+Automation" alt="Typing SVG" /></a>
+<a href="https://github.com/S0Ho0"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&height=50&lines=%3E+Full-Stack+Developer+%E2%80%94+Building+Scalable+Cloud+Systems;%3E+Reverse+Engineer+%E2%80%94+Deconstructing+Complex+Binaries;%3E+Anti-Bot+Architect+%E2%80%94+Outsmarting+Enterprise+WAFs;%3E+Protocol+Engineer+%E2%80%94+TLS+%26+HTTP%2F2+Frame+Mimicry;%3E+From+Assembly+to+Cloud+%E2%80%94+Zero-Overhead+Automation" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- PROFILE METRICS BADGES -->
-<a href="https://github.com/miyaa1745"><img src="https://komarev.com/ghpvc/?username=miyaa1745&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" /></a>
+<a href="https://github.com/S0Ho0"><img src="https://komarev.com/ghpvc/?username=S0Ho0&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" /></a>
 &nbsp;
-<a href="https://github.com/miyaa1745?tab=followers"><img src="https://img.shields.io/github/followers/miyaa1745?label=Followers&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github" /></a>
+<a href="https://github.com/S0Ho0?tab=followers"><img src="https://img.shields.io/github/followers/S0Ho0?label=Followers&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github" /></a>
 &nbsp;
-<a href="https://github.com/miyaa1745?tab=repositories"><img src="https://img.shields.io/github/stars/miyaa1745?label=Total+Stars&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github" /></a>
+<a href="https://github.com/S0Ho0?tab=repositories"><img src="https://img.shields.io/github/stars/S0Ho0?label=Total+Stars&style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github" /></a>
 
 </div>
 
@@ -330,13 +330,13 @@ const SajawalNadeem = {
 <div align="center">
 
 <!-- CUSTOM HUD CARDS (100% RELIABLE — LOCALLY HOSTED IN REPO) -->
-<img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/card-overview.svg" width="49%" alt="System Overview" />
-<img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/card-skills.svg" width="49%" alt="Skills Index" />
+<img src="https://raw.githubusercontent.com/S0Ho0/S0Ho0/main/assets/card-overview.svg" width="49%" alt="System Overview" />
+<img src="https://raw.githubusercontent.com/S0Ho0/S0Ho0/main/assets/card-skills.svg" width="49%" alt="Skills Index" />
 
 <br/><br/>
 
 <!-- STREAK STATS (VERIFIED WORKING) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miyaa1745&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9&stroke=a855f7" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S0Ho0&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9&stroke=a855f7" width="85%" />
 
 </div>
 
@@ -346,9 +346,9 @@ const SajawalNadeem = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyaa1745/miyaa1745/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miyaa1745/miyaa1745/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S0Ho0/S0Ho0/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S0Ho0/S0Ho0/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/S0Ho0/S0Ho0/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
