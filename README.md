@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════ ANIMATED WAVE HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:6e40c9,100:a855f7&height=250&section=header&text=SAJAWAL%20NADEEM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Bug%20Hunter%20%E2%80%A2%20Anti-Bot%20Architect&descSize=17&descAlignY=52&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1b27,75:6e40c9,100:a855f7&height=250&section=header&text=SAJAWAL%20NADEEM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Developer%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20Anti-Bot%20Architect%20%E2%80%A2%20Bug%20Hunter&descSize=16&descAlignY=52&descAlign=50" />
 
 <!-- ═══════════════════════ ANIMATED TYPING SVG ═══════════════════════ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Full-Stack+Developer+%E2%80%94+Building+at+Every+Layer;%F0%9F%94%93+Reverse+Engineer+%E2%80%94+Nothing+Stays+a+Black+Box;%F0%9F%90%9B+Bug+Hunter+%E2%80%94+Breaking+to+Build+Better;%F0%9F%9B%A1%EF%B8%8F+Anti-Bot+Architect+%E2%80%94+Outsmarting+the+Machines;%F0%9F%92%BB+From+Assembly+to+Cloud+%E2%80%94+I+Speak+Every+Layer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Full-Stack+Developer+%E2%80%94+Building+High-Impact+Systems;%F0%9F%94%93+Reverse+Engineer+%E2%80%94+Nothing+Stays+a+Black+Box;%F0%9F%9B%A1%EF%B8%8F+Anti-Bot+Architect+%E2%80%94+Outsmarting+Enterprise+WAFs;%F0%9F%90%9B+Bug+Hunter+%E2%80%94+Breaking+to+Build+Better;%F0%9F%92%BB+From+Assembly+to+Cloud+%E2%80%94+Full+Spectrum+Engineering" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,8 +23,9 @@
 
 ```js
 const SajawalNadeem = {
-    role: "Full-Stack Developer & Security Researcher",
-    speaks: ["Assembly x86/x64/ARM", "C", "C++", "Rust", "Go", "Python",
+    primary_role: "Full-Stack Developer (1st Priority)",
+    specializations: ["Reverse Engineering", "Anti-Bot Architecture", "Bug Hunting"],
+    speaks: ["Assembly (x86/x64/ARM)", "Python", "Go", "C", "C++", "Rust",
              "JavaScript", "TypeScript", "PHP", "Ruby", "Lua", "Perl", "Bash"],
     builds: {
         frontend: ["React", "Next.js", "Vue.js", "Svelte", "Tailwind CSS"],
@@ -33,47 +34,47 @@ const SajawalNadeem = {
         cloud:    ["Docker", "Kubernetes", "AWS", "GCP", "Nginx", "CI/CD"]
     },
     breaks: {
-        reverse_eng: ["IDA Pro", "Ghidra", "Binary Ninja", "Frida", "x64dbg"],
-        bug_hunting: ["SQLi", "XSS", "RCE", "SSRF", "Binary Exploitation"],
-        anti_bot:    ["Cloudflare", "Akamai", "DataDome", "Kasada", "reCAPTCHA"],
-        cracking:    ["DRM", "License Patching", "Dongle Emulation", "Unpacking"]
+        reverse_eng: ["IDA Pro", "Ghidra", "Binary Ninja", "Frida", "x64dbg", "JADX"],
+        bug_hunting: ["Web Pentesting", "Binary Exploitation", "CVE Research", "Fuzzing"],
+        anti_bot:    ["Cloudflare", "Akamai", "DataDome", "Kasada", "reCAPTCHA VM"],
+        cracking:    ["DRM Deconstruct", "License Patching", "Dongle Emulation", "Unpacking"]
     },
-    hacks_hardware: ["Arduino", "Raspberry Pi", "JTAG", "Logic Analyzer", "SDR"],
+    hardware_iot: ["Arduino", "Raspberry Pi", "JTAG/SWD", "Logic Analyzer", "SDR"],
     motto: "If it runs code, I can reverse it. If I can reverse it, I can build it better."
 };
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> &nbsp;Tech Stack & Arsenal
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"> Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22"> Languages
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,js,ts,php,ruby,lua,bash,assembly&perline=6&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25"> Frontend
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="22"> Frontend & Web
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"> Backend & Runtime
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"> Backend & Runtime
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,nginx,bun&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="25"> Databases
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22"> Databases & Caching
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase,firebase,dynamodb&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="25"> Cloud & DevOps
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22"> Cloud, DevOps & Infrastructure
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,githubactions,cloudflare&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="25"> Security & RE Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22"> Security & Reverse Engineering Tools
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kali,powershell,vim,neovim,vscode,git,github,gitlab&perline=8&theme=dark" /></a>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="25"> Hardware & IoT
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="22"> Hardware & IoT
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></a>
 
@@ -89,7 +90,7 @@ const SajawalNadeem = {
 
 <td width="33%" valign="top">
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="22"> Full-Stack Dev</h3>
-<p align="center"><img src="https://img.shields.io/badge/Priority-1st-a855f7?style=flat-square&labelColor=0d1117" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Priority-1st%20Focus-a855f7?style=flat-square&labelColor=0d1117" /></p>
 
 ```
 ┌─── Frontend ────┐
@@ -97,7 +98,7 @@ const SajawalNadeem = {
 │ Vue / Svelte     │
 │ Tailwind CSS     │
 └───────┬──────────┘
-        │ API Layer
+        │ REST / WS / gRPC
 ┌───────▼──────────┐
 │ Node / Express    │
 │ FastAPI / Django  │
@@ -324,24 +325,18 @@ const SajawalNadeem = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> &nbsp;GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> &nbsp;System Metrics & Activity
 
 <div align="center">
 
-<!-- STREAK STATS — VERIFIED WORKING ✅ -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miyaa1745&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9&stroke=a855f7" width="75%" />
+<!-- CUSTOM HUD CARDS (100% RELIABLE — LOCALLY HOSTED IN REPO) -->
+<img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/card-overview.svg" width="49%" alt="System Overview" />
+<img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/card-skills.svg" width="49%" alt="Skills Index" />
 
 <br/><br/>
 
-<!-- SELF-HOSTED METRICS — Generated by GitHub Actions (no external dependency) -->
-<!-- These will appear after the metrics workflow runs for the first time -->
-<a href="https://github.com/miyaa1745"><img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/metrics-general.svg" width="49%" alt="General Metrics" /></a>
-<a href="https://github.com/miyaa1745"><img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/metrics-languages.svg" width="49%" alt="Language Metrics" /></a>
-
-<br/>
-
-<a href="https://github.com/miyaa1745"><img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/metrics-achievements.svg" width="49%" alt="Achievements" /></a>
-<a href="https://github.com/miyaa1745"><img src="https://raw.githubusercontent.com/miyaa1745/miyaa1745/main/assets/metrics-habits.svg" width="49%" alt="Coding Habits" /></a>
+<!-- STREAK STATS (VERIFIED WORKING) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miyaa1745&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=c9d1d9&stroke=a855f7" width="85%" />
 
 </div>
 
@@ -381,7 +376,7 @@ const SajawalNadeem = {
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Security%20Research-a855f7?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to-RE%20Challenges-a855f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open%20to-Reverse%20Engineering-a855f7?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
